@@ -11,7 +11,7 @@ A heavily modded NeoForge 1.21.1 modpack centred around Create and Create: Aeron
 | File | Description |
 |------|-------------|
 | `Create_Spleenonautics_x.x.x.mrpack` | Modrinth-format pack — recommended for most players |
-| `mods.zip` | Raw mods folder — for other launchers or manual installs |
+| [mods.zip](https://drive.google.com/file/d/1gs4HMC9lrSVLpal8R-3Xhk2hTcMkpVWt/view?usp=sharing) | Raw mods folder — for other launchers or manual installs |
 
 ---
 
@@ -43,7 +43,7 @@ If your launcher doesn't support `.mrpack`, use the `mods.zip` instead — see b
 
 If you already have a Modrinth instance set up and want to update without losing your keybinds, options, or shader settings, do this instead of reimporting the pack:
 
-1. Download the new `mods.zip` from the latest release
+1. Download the new [mods.zip](https://drive.google.com/file/d/1gs4HMC9lrSVLpal8R-3Xhk2hTcMkpVWt/view?usp=sharing) from the link release
 2. Extract the zip — you'll get a `mods` folder
 3. Open your existing Modrinth instance folder:
    - In the Modrinth App, right-click your instance → **Open Folder**
