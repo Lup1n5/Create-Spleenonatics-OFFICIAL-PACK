@@ -51,16 +51,6 @@ If you already have a Modrinth instance set up and want to update without losing
 5. Copy the new `mods` folder in its place
 6. Launch as normal — your `options.txt`, keybinds, shader settings, and configs are all untouched
 
----
-
-## Server
-
-To join the server you'll need [Tailscale](https://tailscale.com) installed. Ask the server owner for an invite link.
-
-Once connected, add the server in Minecraft using the address provided by the server owner.
-
----
-
 ## Mod List
 
-A full breakdown of every mod — including which are client-only and which run on the server — is available in [`MODLIST.md`](MODLIST.md).
+A full breakdown of every mod — including which are client-only and which run on the server — is available in [`MODLIST.md`](MODLIST.md). (this is a little wrong i will change it next version i am lazy rn)
